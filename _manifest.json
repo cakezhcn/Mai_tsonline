@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "查询teamspeak3服务器信息的插件。",
   "author": {
-    "name": "cakezhcn"
+    "name": "cakezhcn",
+    "url": "https://github.com/cakezhcn"
   },
   "license": "MIT", 
   "host_application": {
