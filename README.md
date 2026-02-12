@@ -2,32 +2,25 @@
 
 ## 项目简介
 
-Mai_tsonline 是一个由 cakezhcn 开发和维护的项目，目前还没有详细的官方说明。
+Mai_tsonline 是一个让maimai查询ts3服务器的插件
 
-## 特点
-
-- 项目功能描述待补充。
-- 支持的特性或集成说明。
-- 如有依赖具体平台或框架亦可补充说明。
 
 ## 安装方法
 
-请根据项目的实际情况填写安装方法，例如：
-
-```bash
 git clone https://github.com/cakezhcn/Mai_tsonline.git
-cd Mai_tsonline
-# 后续安装步骤
-```
+将其放在plugins下
+启动Maicore生成config.toml，并且输入ts服务器的sq用户密码
+重新启动
+
 
 ## 使用方法
 
-请补充如何使用本项目的具体方法实例，例如：
-
-```bash
-# 示例命令
-python main.py
+可以使用```command```方法：
 ```
+/ts|teamspeak
+```
+也可使用```action```,直接询问即可
+
 
 ## 贡献指南
 
