@@ -1,0 +1,9 @@
+{
+  "manifest_version": 1,
+  "name": "teamspeak_plugin",
+  "version": "1.0.0",
+  "description": "查询teamspeak3服务器信息的插件。",
+  "author": {
+    "name": "cakezhcn"
+  }
+}

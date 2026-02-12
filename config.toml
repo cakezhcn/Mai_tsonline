@@ -1,0 +1,48 @@
+# teamspeak_plugin - 自动生成的配置文件
+# 查询teamspeak3服务器信息的插件。
+
+# 插件基本配置
+[plugin]
+
+# 配置文件版本
+config_version = "1.0.0"
+
+# 是否启用插件
+enabled = true
+
+
+# TeamSpeak 服务器配置
+[teamspeak]
+
+# TeamSpeak 服务器地址
+host = "Your host"
+
+# TeamSpeak 管理端口
+port = 10011
+
+# 虚拟服务器 ID
+server_id = 1
+
+# 登录用户名
+username = ""
+
+# 登录密码
+password = ""
+
+# 要在查询结果中排除的频道列表（ID 或 名称）
+exclude_channels = [23]
+
+# 是否默认显示用户列表
+show_details = false
+
+
+# 组件启用控制
+[components]
+
+# 是否启用查询工具
+enable_tool = true
+
+# 是否启用命令
+enable_commands = true
+
+
