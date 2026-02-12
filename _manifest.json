@@ -5,5 +5,12 @@
   "description": "查询teamspeak3服务器信息的插件。",
   "author": {
     "name": "cakezhcn"
-  }
+  },
+  "license": "MIT", 
+  "host_application": {
+    "max_version": "0.12.2" 
+  },
+  "homepage_url": "https://github.com/cakezhcn/Mai_tsonline", 
+  "repository_url": "https://github.com/cakezhcn/Mai_tsonline", 
+  "categories": ["Utility Tools"]
 }
