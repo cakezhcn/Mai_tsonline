@@ -10,8 +10,8 @@ Mai_tsonline 是一个让maimai查询ts3服务器的插件
 ```bash
 git clone https://github.com/cakezhcn/Mai_tsonline.git
 ```
-2.将其放在plugins下
-3.启动Maicore生成config.toml，并且输入ts服务器的sq用户密码
+2.将其放在plugins下<br />
+3.启动Maicore生成config.toml，并且输入ts服务器的sq用户密码<br />
 4.重新启动
 
 
