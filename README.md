@@ -14,8 +14,9 @@ git clone https://github.com/cakezhcn/Mai_tsonline.git
 3.启动Maicore生成config.toml，并且输入ts服务器的sq用户密码<br />
 4.重新启动
 
-注意：config.toml最好是Maicore生成的，在此之前你必须将仓库中config.toml删除，仓库中的config.toml只作为参考
 
+**⚠️ 注意：**
+> **config.toml 最好由 Maicore 自动生成。请务必在此之前将仓库中的 config.toml 文件删除。仓库中的 config.toml 仅供参考。**
 
 
 ## 使用方法
